@@ -9,7 +9,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>LifeSteal-Smp-Plugin</name>
+    <name>LifeSteal</name>
 
     <description>Kill someone get a heart, die to someone and loose a heart, simple!</description>
     <properties>
