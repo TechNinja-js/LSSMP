@@ -23,7 +23,7 @@ public class WithdrawCommand extends SMPCommand {
             CustomItem.give(player, getPlugin(LSSMP.class).getItem("heart_item").orElseThrow());
         else
             getPlugin().getEliminationHandler().eliminate(player);
-        commandSender.sendMessage("§6You have withdrawn a heart!");
+        commandSender.sendMessage("%RainbowColor_You have withdrawn a heart!%");
         return true;
     }
 }
