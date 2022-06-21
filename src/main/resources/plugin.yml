@@ -1,6 +1,6 @@
-name: LifeSteal-Smp-Plugin
+name: Lifesteal
 version: '${project.version}'
 main: me.ikevoodoo.lssmp.LSSMP
 api-version: 1.17
-authors: [ IkeVoodoo ]
+authors: [ IkeVoodoo , TNJS ]
 description: Kill someone get a heart, die to someone and loose a heart, simple!
